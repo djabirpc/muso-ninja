@@ -1,4 +1,4 @@
-# muso-ninja  
+# Muso Ninja  
 Course From for The Net Ninja Build Web Apps with Vue JS 3 & Firebase  
 The Course is [Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase)
 
